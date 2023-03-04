@@ -1,2 +1,2 @@
 # Darwin_inject
-simple dylib injector for mac
+Change dylib path in code and build
